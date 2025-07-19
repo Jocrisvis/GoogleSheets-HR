@@ -22,9 +22,7 @@ It can be applied elsewhere, but its main goal is to increase efficiency in HR w
 
 ##  3. Overview
 
-- Performs a join between two tables by a shared key column, similar to SQL JOIN  
-
-### Example
+- Performs a join between two tables by a shared key column, similar to SQL JOIN. Example:
 
 **Table 1: Employees**  
 | ID | Name  |  
