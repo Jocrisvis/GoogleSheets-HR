@@ -55,4 +55,7 @@ It can be applied elsewhere, but its main goal is to increase efficiency in HR w
 > **Manual copy-paste:**  
 > Some repetitive manual work may be needed, but it’s still easier than manual column movement or multiple VLOOKUPs.
 
+> **Raw Data:**  
+> Datasets are normally provided clear but sometimes it needs to be clean.
+
 ---
