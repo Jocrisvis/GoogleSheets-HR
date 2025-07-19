@@ -58,4 +58,6 @@ It can be applied elsewhere, but its main goal is to increase efficiency in HR w
 > **Raw Data:**  
 > Datasets are normally provided clear but sometimes it needs to be clean.
 
+> > **Country in Google Sheets**  
+> Errors due to location or language, different type of format and logic. 
 ---
